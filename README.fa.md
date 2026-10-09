@@ -1,3 +1,5 @@
+> English version: [README.md](README.md)
+
 
 # گزارش پروژه — Mastermind (Swift / CLI / Ubuntu WSL)
 
