@@ -2,7 +2,7 @@
 
 # Project report: Mastermind (Swift / CLI / Ubuntu WSL)
 
-**Amirhossein Khoshbakht** (student ID 99105429)
+**Amirhossein Khoshbakht**
 
 ## Environment
 
